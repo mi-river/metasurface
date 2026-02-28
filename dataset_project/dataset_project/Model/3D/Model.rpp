@@ -1,0 +1,25 @@
+11
+0
+0
+1
+Calculate Reflectance Transmittance and Absorbance
+Calculate Reflectance Transmittance and Absorbance
+1
+M1DC
+Optical
+P
+ED10
+Calculate Reflectance Transmittance and Absorbance^+MWS.rtp
+VBA
+10
+Reflectance-Transmittance-Absorbance\R_Zmax(1),Zmax(1)
+Reflectance-Transmittance-Absorbance\T_Zmax(2),Zmax(1)
+Reflectance-Transmittance-Absorbance\T_Zmin(1),Zmax(1)
+Reflectance-Transmittance-Absorbance\T_Zmin(2),Zmax(1)
+Reflectance-Transmittance-Absorbance\T_Zmax(1),Zmax(2)
+Reflectance-Transmittance-Absorbance\R_Zmax(2),Zmax(2)
+Reflectance-Transmittance-Absorbance\T_Zmin(1),Zmax(2)
+Reflectance-Transmittance-Absorbance\T_Zmin(2),Zmax(2)
+Reflectance-Transmittance-Absorbance\A_Zmax(1)
+Reflectance-Transmittance-Absorbance\A_Zmax(2)
+0

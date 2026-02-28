@@ -1,0 +1,42 @@
+{
+    "parameters": [
+        {
+            "descr": "spherical angle of incident plane wave",
+            "expr": "0",
+            "name": "theta",
+            "value": "0"
+        },
+        {
+            "descr": "spherical angle of incident plane wave",
+            "expr": "0",
+            "name": "phi",
+            "value": "0"
+        },
+        {
+            "expr": "400",
+            "name": "P",
+            "value": "400"
+        },
+        {
+            "expr": "161.86440677966",
+            "name": "L",
+            "value": "161.86440677966"
+        },
+        {
+            "expr": "250",
+            "name": "W",
+            "value": "250"
+        },
+        {
+            "expr": "600",
+            "name": "H",
+            "value": "600"
+        },
+        {
+            "expr": "200",
+            "name": "H_sub",
+            "value": "200"
+        }
+    ],
+    "version": 1
+}
